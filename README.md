@@ -1,1 +1,3 @@
 # google-drive-app
+
+An app that integrates with the Google Drive API, allowing users to efficiently manage their files and directories. It provides features such as creating, renaming, moving, and deleting files or folders. Additionally, the app enables users to download files for offline access, with automatic synchronization—any changes made locally are seamlessly uploaded to Google Drive once an internet connection is available. Advanced caching ensures minimal data usage while keeping files up to date. The app could also include version control, sharing options, and real-time collaboration support for an optimized cloud storage experience.
